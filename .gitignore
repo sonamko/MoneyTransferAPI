@@ -1,0 +1,14 @@
+# ignore an entire directory
+/target/
+
+#ignore classpath
+.classpath
+
+#ignore IDE settings
+.idea/
+
+#ignore project files
+.project
+
+#ignore settings file
+.settings
