@@ -9,7 +9,7 @@ A Java RESTful API for money transfers between users accounts
 - Grizzly server for Test
 
 ### How to run
-``` Executable jar at path : executableJar/
+   Executable jar at path : executableJar/
 
      java -jar moneytransfer-1.0   {Will start the server, the api can then be hit using Postman}
 ```
